@@ -1,0 +1,54 @@
+{
+  "placements": [
+    {
+      "id": "8415059e-7549-44dc-9d5c-092f008db163",
+      "file_name": "大叔的村民骨折机",
+      "hash": "33d2d50b-c6b2-3516-9dc7-6be6297924b8",
+      "origin": {
+        "position": [
+          -15,
+          82,
+          -49
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "ef0d6e51-7fcb-44d9-a7ab-87c349e66469",
+        "name": "dangwiii"
+      },
+      "subregionData": [
+        {
+          "position": [
+            -75,
+            -18,
+            2
+          ],
+          "name": "Unnamed",
+          "rotation": "NONE",
+          "mirror": "NONE"
+        }
+      ]
+    },
+    {
+      "id": "3dda88bd-0523-4567-83af-804715ca5998",
+      "file_name": "大叔的麦场",
+      "hash": "4ecba753-6dfe-3256-a167-50bde53c99c1",
+      "origin": {
+        "position": [
+          138,
+          65,
+          188
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "CLOCKWISE_90",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "ef0d6e51-7fcb-44d9-a7ab-87c349e66469",
+        "name": "dangwiii"
+      }
+    }
+  ]
+}
